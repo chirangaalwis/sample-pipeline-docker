@@ -1,0 +1,8 @@
+# Examples - Uncomment the following and add the vulnerabilities to be ignored as follows
+
+# not applicable
+# CVE-2020-27350
+
+# accept the risk
+# CVE-2020-1971
+
